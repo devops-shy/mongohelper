@@ -1,0 +1,9 @@
+/node_modules
+/.vscode
+*.js
+*.js.map
+package-lock.json
+*.rar
+*.zip 
+/.idea   
+*.d.ts  

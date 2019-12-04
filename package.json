@@ -1,0 +1,18 @@
+{
+  "name": "mongohelper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mongodb": "3.3.11",
+    "koa": "2.11.0",
+    "mongodb": "3.3.5",
+    "typescript": "3.7.2"
+  }
+}
