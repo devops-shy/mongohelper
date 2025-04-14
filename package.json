@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/mongodb": "3.3.11",
-    "koa": "2.11.0",
+    "koa": "2.16.1",
     "mongodb": "3.3.5",
     "typescript": "3.7.2"
   }
